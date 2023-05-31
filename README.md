@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Skarner</h1>
-<h3 align="center">A current student at Northeastern University and an incoming student at Carnegie Mellon University.</h3>
+<h3 align="center">Incoming Master student at Carnegie Mellon University.</h3>
 
-- 🔭 I’m currently working on **Venova Site**
+- 🔭 I’m currently working at **Siemens**
 
 - 🌱 I’m currently learning **Everything!**
-
-- 👯 I’m looking to collaborate on **Scout Team**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SkarnerV?tab=overview&from=2023-03-01&to=2023-03-22](https://github.com/SkarnerV?tab=overview&from=2023-03-01&to=2023-03-22)
 
