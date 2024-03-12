@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Bad League and Apex Player**
 
+- 🌏 checkout my personal website at https://skarnerv.github.io/website/
+
 
 <p align="left">
 </p>
