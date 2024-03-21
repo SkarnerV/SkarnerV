@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skarner</h1>
 <h3 align="center">Incoming Master student at Carnegie Mellon University.</h3>
 
-- 🔭 I’m currently working at **Forever35**
+- 🔭 I’m currently working at **CMU Cylab**
 
 - 🌱 I’m currently learning **Everything!**
 
