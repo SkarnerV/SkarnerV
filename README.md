@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skarner</h1>
-<h3 align="center">Incoming Master student at Carnegie Mellon University.</h3>
+<h3 align="center">Master student at Carnegie Mellon University.</h3>
 
 - 🔭 I’m currently working at **CMU Cylab**
 
