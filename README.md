@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SkarnerV?tab=overview&from=2023-03-01&to=2023-03-22](https://github.com/SkarnerV?tab=overview&from=2023-03-01&to=2023-03-22)
+- 👨‍💻 All of my projects are available at https://github.com/SkarnerV?tab=repositories
 
 - 💬 Ask me about **Anything**
 
